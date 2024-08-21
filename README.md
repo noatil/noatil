@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello world 👋
+
+Welcome to my profile. 🐈\
+I'm a student 📚 @HAMK.
 
 <!--
 **noatil/noatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
